@@ -1,3 +1,3 @@
-# Day-1 AND GATE
-# Day-1 AND GATE
 # 100Days-of-RTL-Code
+
+# Day-1  Implementation of AND GATE using all level of abstraction.
