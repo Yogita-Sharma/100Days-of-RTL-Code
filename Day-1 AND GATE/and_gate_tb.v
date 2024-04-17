@@ -3,7 +3,7 @@ module m1_tb;
   reg a,b;
   wire c,d,e;
   
-  m1_tb(a,b,c,d,e);
+  m1 m1_tb(a,b,c,d,e);
   initial
     begin
       $monitor("t = %0t, a = %d, b = %d, c = %b, d = %b, e = %b", $time, a,b,c,d,e);
